@@ -1,0 +1,90 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Suga Suga",
+  "_songSubName": "",
+  "_songAuthorName": "Baby Bash",
+  "_levelAuthorName": "Blackb1rd3",
+  "_beatsPerMinute": 83,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 1,
+  "_previewDuration": 30,
+  "_songFilename": "song.egg",
+  "_coverImageFilename": "cover.jpg",
+  "_environmentName": "NiceEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editorSettings": {
+      "enabledFastWalls": true,
+      "modSettings": {
+        "customColors": {
+          "isEnabled": false,
+          "colorLeft": "#f21212",
+          "colorLeftOverdrive": 0,
+          "colorRight": "#006cff",
+          "colorRightOverdrive": 0,
+          "envColorLeft": "#f21212",
+          "envColorLeftOverdrive": 0,
+          "envColorRight": "#006cff",
+          "envColorRightOverdrive": 0,
+          "obstacleColor": "#f21212",
+          "obstacleColorOverdrive": 0
+        },
+        "mappingExtensions": {
+          "isEnabled": false,
+          "numRows": 3,
+          "numCols": 4,
+          "colWidth": 1,
+          "rowHeight": 1
+        }
+      }
+    },
+    "_editor": "beatmapper"
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "Hard.dat",
+          "_noteJumpMovementSpeed": 10,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_requirements": []
+          }
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "Expert.dat",
+          "_noteJumpMovementSpeed": 12,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_editorOffset": 0,
+            "_requirements": []
+          }
+        }
+      ]
+    },
+    {
+      "_beatmapCharacteristicName": "Lightshow",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Easy",
+          "_difficultyRank": 1,
+          "_beatmapFilename": "EasyLightshow.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0,
+          "_customData": {
+            "_difficultyLabel": "Lightshow",
+            "_editorOffset": 0,
+            "_requirements": []
+          }
+        }
+      ]
+    }
+  ]
+}
