@@ -1,0 +1,53 @@
+{
+  "_version": "2.0.0",
+  "_songName": "About Damn Time",
+  "_songSubName": "",
+  "_songAuthorName": "Lizzo",
+  "_levelAuthorName": "Setholopod",
+  "_beatsPerMinute": 109,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 48,
+  "_previewDuration": 15,
+  "_songFilename": "Song.egg",
+  "_coverImageFilename": "Cover.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_songTimeOffset": 0,
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "MMA2": {
+        "version": "4.8.4"
+      },
+      "ChroMapper": {
+        "version": "0.8.476"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Hard",
+          "_difficultyRank": 5,
+          "_beatmapFilename": "HardStandard.dat",
+          "_noteJumpMovementSpeed": 15,
+          "_noteJumpStartBeatOffset": 0.2
+        },
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 17,
+          "_noteJumpStartBeatOffset": 0.3,
+          "_customData": {
+            "_editorOffset": 0,
+            "_editorOldOffset": 0
+          }
+        }
+      ]
+    }
+  ]
+}
