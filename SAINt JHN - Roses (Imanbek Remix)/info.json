@@ -1,0 +1,35 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Roses",
+  "_songSubName": "(Imanbek Remix)",
+  "_songAuthorName": "SAINt JHN",
+  "_levelAuthorName": "nitronik.exe",
+  "_beatsPerMinute": 122,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songFilename": "SAINt JHN - Roses (Imanbek Remix).egg",
+  "_coverImageFilename": "roses.jpg",
+  "_environmentName": "DefaultEnvironment",
+  "_songTimeOffset": 0,
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "ExpertPlus",
+          "_difficultyRank": 9,
+          "_beatmapFilename": "ExpertPlusStandard.dat",
+          "_noteJumpMovementSpeed": 19,
+          "_noteJumpStartBeatOffset": 0.5,
+          "_customData": {
+            "_editorOffset": 420,
+            "_editorOldOffset": 420
+          }
+        }
+      ]
+    }
+  ],
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment"
+}
